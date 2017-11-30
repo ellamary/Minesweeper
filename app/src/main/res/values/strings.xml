@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="newGameBtn">New Game</string>
+    <string name="game_won">Congratulations! You flagged all the mines!</string>
+</resources>
